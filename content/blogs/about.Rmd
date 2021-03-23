@@ -7,6 +7,12 @@ description: Lorem Etiam Nullam
 draft: false
 image: pic09.jpg
 keywords: ""
-slug: magna
-title: Magna
+slug: about
+title: About me
 ---
+hi, i'm Salif  i caome from burkina
+
+1. i like work
+1. play drama
+1. eat frize rice
+1. drink beer

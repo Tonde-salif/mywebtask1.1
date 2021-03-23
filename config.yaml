@@ -80,18 +80,18 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+      - image: marstens.jpg
+        subtitle: top beer and wine consumption
+        title: where do people drink the most?
         url: blogs/aliquam
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
+        subtitle: Are You enjoy your Journey
+        title: Journey
         url: blogs/tempus
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+      - image: saliff.jpg
+        subtitle: About me
+        title: who are you
+        url: blogs/about.Rmd
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
